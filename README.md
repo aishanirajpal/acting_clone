@@ -107,7 +107,7 @@ clone_landmarks_2d = [(int((1 - lm.x) * width), int(lm.y * height)) for lm in re
 
 1. **Run the Application**
    ```bash
-   python clone_tracker.py
+   python clone.py
    ```
 
 2. **Controls**
@@ -199,3 +199,4 @@ This project is for educational and personal use. MediaPipe is subject to Apache
 
 
 Feel free to submit issues and enhancement requests!
+
